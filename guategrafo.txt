@@ -1,3 +1,5 @@
 Mixco Antigua 30
 Antigua Escuintla 25
 Escuintla Quiche 15
+Quiche Mixco 80
+Mixco Escuintla 60
