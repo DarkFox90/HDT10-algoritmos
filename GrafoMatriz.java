@@ -83,7 +83,7 @@ public class GrafoMatriz implements Grafo{
             return matriz;
         }
 
-        public List<String> geNodosList() {
+        public List<String> getNodosList() {
             return indiceANombre;
         }
 
